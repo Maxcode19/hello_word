@@ -20,6 +20,7 @@ int main()
     ptr -> print();
 	
 	/** Max comment **/
+	/** max the best **/
 	
     /** Inheritance **/
     New_student New_student_x(3);
