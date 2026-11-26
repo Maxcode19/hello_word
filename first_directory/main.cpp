@@ -15,10 +15,10 @@ int main()
     My_class obj(1, 2, student_x);
     obj.print();
 
-    /** Class seen as a pointer **/
+	/** maura codice **/
     My_class *ptr = &obj;
     ptr -> print();
-
+	
     /** Inheritance **/
     New_student New_student_x(3);
     New_student_x.get_code();
