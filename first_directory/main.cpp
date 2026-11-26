@@ -19,6 +19,7 @@ int main()
     My_class *ptr = &obj;
     ptr -> print();
 	
+	/** Max comment **/
 	/** max the best **/
 	
     /** Inheritance **/
