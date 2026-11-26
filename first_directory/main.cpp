@@ -19,6 +19,8 @@ int main()
     My_class *ptr = &obj;
     ptr -> print();
 	
+	/** Max comment **/
+	
     /** Inheritance **/
     New_student New_student_x(3);
     New_student_x.get_code();
